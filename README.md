@@ -15,6 +15,14 @@ Welcome to my data analytics portfolio. I am an entry-level Data Analyst skilled
 - Added **slicers and drill-through** for interactive analysis.
 
 ---
+---
+
+## 📊 Electronics Sales Dashboard
+![Electronics Dashboard](./images/electronics_dashboard.png)
+
+## 🍫 Chocolate Factory Dashboard
+![Chocolate Dashboard](./images/chocolate_dashboard.png)
+
 
 ##  Diesel Engine Biodiesel Analysis (Excel + Python)
 
