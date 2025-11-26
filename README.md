@@ -59,5 +59,7 @@ These projects helped me improve logic building, debugging, and accuracy.
 
 - **Email:** sekharaddala03@gmail.com  
 - **Phone:** 7997458914  
-- **LinkedIn:** *(add your LinkedIn link here)*  
+- **LinkedIn:** www.linkedin.com/in/
+sekhar-trimurthulu-869ab12b2
+ 
 
