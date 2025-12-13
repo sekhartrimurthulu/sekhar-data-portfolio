@@ -80,7 +80,7 @@ These projects helped me improve logic building, debugging, and accuracy.
 
 ---
 
-## 🧑‍💻 Contact  
+##  Contact  
  Email: **sekharaddala03@gmail.com**  
  Phone: **7997458914**  
  GitHub: https://github.com/sekhartrimurthulu  
